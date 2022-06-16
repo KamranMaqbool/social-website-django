@@ -1,0 +1,9 @@
+# Run Development server with ssl
+
+python manage.py runserver_plus --cert-file cert.crt
+
+#Github URL
+git remote set-url origin https://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@github.com/KamranMaqbool/social-website-django.git
+
+#Github Token
+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
