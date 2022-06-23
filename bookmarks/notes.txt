@@ -1,4 +1,0 @@
-# Run Development server with ssl
-
-python manage.py runserver_plus --cert-file cert.crt
-
